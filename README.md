@@ -14,5 +14,7 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 
 - - -
 
- 2019 Trilogy Education Services
+### Copyright
+
+Trilogy Education Services © 2019. All Rights Reserved.
 
