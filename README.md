@@ -8,13 +8,11 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 
 
-## Introduction
+## Preliminary Analysis
 
-Using the Excel table provided, modify and analyze the data of 4,000 past Kickstarter projects as you attempt to uncover some market trends.
+We started with a dataset of 4,000 projects, and created additional features to include, "Percent Funded" and "Average Donation". The "Category and Sub-Category" feature was also divided into two, separate columns labeled, "Category" and "Sub-Category", to more accurately define the results in later analyses. Next, we conducted exploratory data analysis to quickly identify any trends by color coding the outcome and percentage funded categories.
 
 - - -
 
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
+(Images/Graphic 1.png)
 
