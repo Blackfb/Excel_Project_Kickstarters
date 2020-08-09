@@ -14,5 +14,5 @@ We started with a dataset of 4,000 projects, and created additional features to 
 
 - - -
 
-(Images/Graphic 1.png)
+![](Images/Graphic 1.png)
 
