@@ -1,4 +1,4 @@
-# Excel Kickstart My Chart
+# Advanced Excel Kickstart My Chart
 
 ## Background
 
