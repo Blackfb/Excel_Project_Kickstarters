@@ -14,6 +14,6 @@ We started with a dataset of 4,000 projects, and created additional features to 
 
 - - -
 
-![G](Images/Graphic-1.png)
-![stock Market](Images/Graphic-1.png)
+![](Images/Graphic%201.png)
+
 
