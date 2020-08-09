@@ -14,17 +14,18 @@ We started with a dataset of 4,000 projects, and created additional features to 
 
 - - -
 
-![](Excel_Project_Kickstarters/Kickstarters_Report.md)
-
 ![](Images/Graphic%201.png)
 
 - - -
+
 ![](Images/Graphic%202.png)
 
 - - -
+
 ![](Images/Graphic%203.png)
 
 - - -
+
 ![](Images/Successful_Campaigns.png)
 
 
